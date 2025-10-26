@@ -1,4 +1,4 @@
-## Hey there! My name is Ramon!👋
+## Hi there! I'm Ramon Gregorie!👋
 
 ### Welcome to my GitHub!⚡
 ### I'm a Product Designer, Web Developer & Marketing Manager!
