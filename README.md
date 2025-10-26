@@ -9,7 +9,7 @@
 ---
 
 ### Ramon's Stats
-[![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramongregorie&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&ring_color=a80bb0&icon_color=default)](https://github.com/ramongregorie/github-readme-stats)
+[![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramongregorie&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&ring_color=default&icon_color=default)](https://github.com/ramongregorie/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramongregorie&layout=compact&theme=github_dark)](https://github.com/ramongregorie/github-readme-stats)
 
 ### Technologies
@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -26,6 +25,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Contacts
