@@ -1,23 +1,16 @@
 # Hi there! I'm Ramon Gregorie!👋
 
 ### Welcome to my GitHub!⚡
-### I'm a Product Designer, Web Developer & Marketing Analyst!
+### I'm a Product Designer & Web Developer!
 
 ##
 
-<!--!### Ramon's Stats
+### Ramon's Stats
 [![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramongregorie&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&ring_color=default&icon_color=default)](https://github.com/ramongregorie/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramongregorie&layout=compact&theme=github_dark)](https://github.com/ramongregorie/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramongregorie&layout=compact&theme=github_dark)](https://github.com/ramongregorie/github-readme-stats)
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,mysql)](https://skillicons.dev)
-<!--[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
